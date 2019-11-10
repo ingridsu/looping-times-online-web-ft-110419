@@ -1,5 +1,6 @@
 def using_times
-  puts ""
+  7
+  puts "Wingardium Leviosa"
 	#your code here
 end
 
